@@ -40,7 +40,7 @@ const getNewTimesStamp = (): number => Math.round(new Date().getTime()/1000);
 
 console.log(genesisBlock.sayHello());
 // console.log(sayHello());
-console.log("secon2");
+console.log("second2");
 
 
 
